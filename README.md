@@ -2,7 +2,7 @@
 Simple bash script to create and save bullet point lists , e.g shoppinglists
 
 # Usage instructions
-* Place bulls.ls anywhere you'd like. The final saved bullet point lists will be saved in the same directory.
+* Place bulls.sh anywhere you'd like. The final saved bullet point lists will be saved in the same directory.
 
 * To make the script able to run, open your terminal and change your working directory to where you placed the script and then type:
 
