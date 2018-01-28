@@ -20,6 +20,7 @@ chmod +x bulls.sh
 
 Short term goals:
 Find a way to make the lists remotely available to the user. (email, cloud, etc)
+
 Add option to paper print the list before exiting script.
 
 Long term: Evaluate if it would be worth creating options to share lists via social media.
