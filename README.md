@@ -1,4 +1,5 @@
 # bulls
+
 Simple bash script to create and save bullet point lists , e.g shoppinglists
 
 # Usage instructions
@@ -15,3 +16,10 @@ chmod +x bulls.sh
 
 * Now that the script is running, follow the on-screen instructions.
 
+# To do:
+
+Short term goals:
+Find a way to make the lists remotely available to the user. (email, cloud, etc)
+Add option to paper print the list before exiting script.
+
+Long term: Evaluate if it would be worth creating options to share lists via social media.
