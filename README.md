@@ -13,5 +13,5 @@ chmod +x bulls.sh
 ./bulls.sh
 
 
-Now that the script is running, follow the on-screen instructions.
+* Now that the script is running, follow the on-screen instructions.
 
